@@ -1,6 +1,6 @@
 # SimpleSH by TibyAndy
 ## Preview:
-<img src="https://raw.githubusercontent.com/xy2iii/vitashell-themes/master/themes/SimpleSH%5ETibyAndy/preview.jpg" style="max-width:640px; width: 100%">
+<img src="https://raw.githubusercontent.com/tibyandy/vitashell-themes/master/themes/SimpleSH%5ETibyAndy/preview.jpg" style="max-width:640px; width: 100%">
 
 ## Download Link:
 * [**SimpleSH_TibyAndy.zip**](https://mega.nz/#!lh51WQJT!3EpINxOEz_FJB5hT46fTVoOszsvRXRXdjfYt8AsH_aA) (MEGA - 126 KB)
@@ -41,11 +41,11 @@
 1. VitaShell will start with **SimpleSH by TibyAndy** theme!
 
 ## More Screens:
-<img src="https://raw.githubusercontent.com/xy2iii/vitashell-themes/master/themes/SimpleSH%5ETibyAndy/preview_ftp.jpg" style="max-width:640px; width: 100%">
-<img src="https://raw.githubusercontent.com/xy2iii/vitashell-themes/master/themes/SimpleSH%5ETibyAndy/preview_music.jpg" style="max-width:640px; width: 100%">
-<img src="https://raw.githubusercontent.com/xy2iii/vitashell-themes/master/themes/SimpleSH%5ETibyAndy/preview_context.jpg" style="max-width:640px; width: 100%">
-<img src="https://raw.githubusercontent.com/xy2iii/vitashell-themes/master/themes/SimpleSH%5ETibyAndy/preview_text.jpg" style="max-width:640px; width: 100%">
-<img src="https://raw.githubusercontent.com/xy2iii/vitashell-themes/master/themes/SimpleSH%5ETibyAndy/preview_hex.jpg" style="max-width:640px; width: 100%">
+<img src="https://raw.githubusercontent.com/tibyandy/vitashell-themes/master/themes/SimpleSH%5ETibyAndy/preview_ftp.jpg" style="max-width:640px; width: 100%">
+<img src="https://raw.githubusercontent.com/tibyandy/vitashell-themes/master/themes/SimpleSH%5ETibyAndy/preview_music.jpg" style="max-width:640px; width: 100%">
+<img src="https://raw.githubusercontent.com/tibyandy/vitashell-themes/master/themes/SimpleSH%5ETibyAndy/preview_context.jpg" style="max-width:640px; width: 100%">
+<img src="https://raw.githubusercontent.com/tibyandy/vitashell-themes/master/themes/SimpleSH%5ETibyAndy/preview_text.jpg" style="max-width:640px; width: 100%">
+<img src="https://raw.githubusercontent.com/tibyandy/vitashell-themes/master/themes/SimpleSH%5ETibyAndy/preview_hex.jpg" style="max-width:640px; width: 100%">
 
 ## Disclaimer:
 * All icons and backgrounds were made with much effort and love by TibyAndy.
